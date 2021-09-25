@@ -1,0 +1,15 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Tue, 15 Dec 2020 16:32:53 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="cnBeta.COM业界资讯" title="cnBeta.COM业界资讯" type="rss" xmlUrl="http://feeds2.feedburner.com/cnbeta_full" htmlUrl="http://www.cnbeta.com"/>
+    <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+    <outline text="极客公园" title="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
+    <outline text="V2EX 周报" title="V2EX 周报" type="rss" xmlUrl="http://vdaily.iu.vc/old-weekly.xml" htmlUrl="http://vdaily.iu.vc/"/>
+    <outline text="战隼的学习探索" title="战隼的学习探索" type="rss" xmlUrl="http://feed.read.org.cn/" htmlUrl="http://www.read.org.cn"/>
+    <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="https://news-at.zhihu.com/api/4/stories/latest?client=0"/>
+    <outline text="知乎每日精选" title="知乎每日精选" type="rss" xmlUrl="http://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+  </body>
+</opml>
